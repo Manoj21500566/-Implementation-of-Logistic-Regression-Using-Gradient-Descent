@@ -88,18 +88,38 @@ plt.show()
 
 ## Output:
 Prediction of Test Result:
+
+
+
+
 ![1](https://user-images.githubusercontent.com/94588708/172996203-a52e4f2d-022d-4e5b-ad17-6d1e7a78ccb4.jpg)
 
 Confusion Matrix:
+
+
+
+
 ![2](https://user-images.githubusercontent.com/94588708/172996333-1977977b-7535-4d69-8557-2080278330c9.jpg)
 
 Accuracy:
+
+
+
 ![3](https://user-images.githubusercontent.com/94588708/172996384-937433c1-5ce5-4686-a1e9-0eb3c562ced6.jpg)
 
 Recalling Sensitivity and Specificity:
+
+
+
+
 ![4](https://user-images.githubusercontent.com/94588708/172996435-dce1521b-79ba-4d95-b66a-a0d7ca2e003f.jpg)
 
 Visulaizing Training set Result:
+
+
+
+
+
 ![5](https://user-images.githubusercontent.com/94588708/172996487-8694c443-45a5-442b-8e5d-93da3b265488.png)
 
 
